@@ -1,0 +1,143 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 2/2/2014 1:29:16 AM
+
+BeginCmp
+TimeStamp = /52EDF51D;
+Reference = C1;
+ValeurCmp = 47nF;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EDF529;
+Reference = C2;
+ValeurCmp = 100nF;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EDF5B3;
+Reference = C3;
+ValeurCmp = 10pF;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EDF5B9;
+Reference = C4;
+ValeurCmp = 1nF (typical);
+IdModule  = C1;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EDF58F;
+Reference = P1;
+ValeurCmp = TST;
+IdModule  = TESTPOINT_1PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EDF595;
+Reference = P2;
+ValeurCmp = TST;
+IdModule  = TESTPOINT_1PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EDF606;
+Reference = P3;
+ValeurCmp = SIL6;
+IdModule  = SIL-6;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EDF600;
+Reference = P4;
+ValeurCmp = SIL6;
+IdModule  = SIL-6;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EDF61D;
+Reference = P5;
+ValeurCmp = TST;
+IdModule  = TESTPOINT_1PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EDF644;
+Reference = P6;
+ValeurCmp = TST;
+IdModule  = TESTPOINT_1PIN;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EDF623;
+Reference = P7;
+ValeurCmp = TST;
+IdModule  = LC_SMD_Test_Pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EDF5C3;
+Reference = P8;
+ValeurCmp = LC_SMD_TEST_PAD;
+IdModule  = TESTPOINT;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EDF589;
+Reference = R1;
+ValeurCmp = 6.8K;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EDF535;
+Reference = R2;
+ValeurCmp = 220;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EDF53B;
+Reference = R3;
+ValeurCmp = 220;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EDF541;
+Reference = R4;
+ValeurCmp = 220;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EDF547;
+Reference = R5;
+ValeurCmp = 220;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EDF54D;
+Reference = R6;
+ValeurCmp = 220;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EDF5AD;
+Reference = R7;
+ValeurCmp = 1K;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /52EDF55F;
+Reference = U1;
+ValeurCmp = 74AC14;
+IdModule  = TSSOP14;
+EndCmp
+
+EndListe
